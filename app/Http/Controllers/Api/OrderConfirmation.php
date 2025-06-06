@@ -1,5 +1,5 @@
 <?php
-namespace App\Mail;
+namespace App\Http\Controllers\Api;
 
 use Illuminate\Mail\Mailable;
 use App\Models\Order;
